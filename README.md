@@ -1,7 +1,7 @@
 # Day_32-Birthday-wisher-project
 An automated birthday wisher that sends personalized emails to people on their birthdays.
 
-The program checks if today matches any birthday in a dataset, selects a random birthday message, personalizes it, and sends it through email. The project combines automation, data handling, and real-world functionality.
+The program checks if today matches any birthday in a dataset, selects a random birthday message from the three pre-written letter templates (letter.txt), personalizes it, and sends it through email. The project combines automation, data handling, and real-world functionality.
 
 
 ## How the code works:
